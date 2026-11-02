@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "source": "2026-11-02_laptop.ogg",
+  "backend": "openrouter",
+  "model": "google/gemini-3.5-flash-lite",
+  "audio_seconds": 1052.0,
+  "elapsed_seconds": 19.7,
+  "files": {
+    "raw": "/home/daniel/repos/github/logistics-procurement/Laptop-Search-1126/voice-notes/2026-11-02_laptop.raw.md",
+    "cleaned": "/home/daniel/repos/github/logistics-procurement/Laptop-Search-1126/voice-notes/2026-11-02_laptop.cleaned.md",
+    "dev-prompt": "/home/daniel/repos/github/logistics-procurement/Laptop-Search-1126/voice-notes/2026-11-02_laptop.dev-prompt.md"
+  },
+  "chunks": 1,
+  "cost_usd": 0.017383,
+  "tokens": 30230,
+  "rewrite_cost_usd": 0.013247,
+  "created": "2026-11-02T13:30:46+0200"
+}
