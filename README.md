@@ -2,6 +2,19 @@
 
 Laptop search, November 2026: ideal requirements for replacing a ThinkPad E15, then market research and a budget number.
 
+## Pipeline (a public demo)
+
+Voice note → transcript (raw, cleaned) → requirements → parallel agent research → executive PDF.
+
+| Stage | File |
+|---|---|
+| Voice note and transcripts | `voice-notes/` |
+| Requirements extracted from the note | [`requirements.md`](requirements.md) |
+| Research brief, agent notes and source log | `research/2026-11-02-laptop-shortlist/` (`brief.md`, `notes/`, `sources.md`) |
+| Report (markdown and PDF) | [`report.md`](research/2026-11-02-laptop-shortlist/report.md), [**PDF**](research/2026-11-02-laptop-shortlist/Laptop-Search-1126-research-report.pdf) |
+
+**Result:** a Lenovo ThinkPad T16 Gen 5 bought in Israel; budget ₪12,500 (32 GB / 2 TB) or ₪16,000 (64 GB / 2 TB).
+
 ## Voice notes
 
 | File | What |

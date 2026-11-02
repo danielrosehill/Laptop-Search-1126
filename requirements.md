@@ -55,3 +55,14 @@ Source: `voice-notes/2026-11-02_laptop.cleaned.md` (recorded 2026-11-02). Extrac
 1. **Israel:** local warranty, but usually higher prices and a narrower selection.
 2. **Abroad (US, on a visit):** wider selection and how the E15 was bought; the warranty may not
    apply in Israel.
+
+## Research outcome (2026-11-02)
+
+Full report: [`research/2026-11-02-laptop-shortlist/Laptop-Search-1126-research-report.pdf`](research/2026-11-02-laptop-shortlist/Laptop-Search-1126-research-report.pdf).
+
+- **Pick:** Lenovo ThinkPad T16 Gen 5. It meets every tier-1 item on Lenovo's PSREF: up to 64 GB
+  (Intel, one LPCAMM2) or 96 GB (AMD, two SODIMM), 2 TB, an X61 5G modem with eSIM, Wi-Fi 7 and a
+  numeric keypad to remap as macro keys. iFixit scores it 10/10. Runner-up: HP EliteBook 8 G1i 16.
+- **Budget line:** ₪12,500 basic (32 GB / 2 TB), ₪16,000 stretch (64 GB / 2 TB), bought in Israel.
+- **Before ordering:** confirm the Israeli SKU has the 5G/eSIM module, ask whether the AMD T16 Gen 5 is
+  sold in Israel, and test the eSIM on Ubuntu inside the return window.
