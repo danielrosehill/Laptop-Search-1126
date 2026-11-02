@@ -1,0 +1,15 @@
+{
+  "delivered_at": "2026-11-02T13:49:34+02:00",
+  "repo": "https://github.com/danielrosehill/Laptop-Search-1126",
+  "pdf": "https://github.com/danielrosehill/Laptop-Search-1126/blob/main/research/2026-11-02-laptop-shortlist/Laptop-Search-1126-research-report.pdf",
+  "drive": null,
+  "drive_note": "Skipped: not requested; config folder 'Research' does not exist on the AI Outputs shared drive (only 'AI Research').",
+  "email": {
+    "to": "daniel@danielrosehill.co.il",
+    "route": "Gmail self-send (google-workspace-personal), per the agentmail-daniel delivery issue; config 'to' is claude@",
+    "subject": "Research: Replacing the ThinkPad E15",
+    "message_id": "1a19c17b19e1ef98",
+    "pdf_attached": true,
+    "sent_folder_verified": true
+  }
+}
